@@ -1,0 +1,7 @@
+name: RushFFA
+author: kara
+version: 1.1.1
+main: fr.kara.heria.rushffa.RushFFA
+depend: [ HeriaAPI ]
+
+

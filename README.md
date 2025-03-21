@@ -1,2 +1,1 @@
-# rushffa
-HeriaMC: RushFFA
+# RushFFA
